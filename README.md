@@ -62,7 +62,7 @@ star✨ my repo bruh don't forget please🤖
  GET SESSION ID BY
  
 
-<a href="https://code-generation-setv.onrender.comqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://code-generation-setv.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
